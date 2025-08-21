@@ -1,1 +1,5 @@
-This Adds A New Mod Which Adds More Areas To Explore!
+Version 1.0.4 - Update Summary
+---------------------------------
+- Added a mysterious new feature that opens up entirely new possibilities...
+- Minor performance tweaks and backend improvements.
+- Various undisclosed changes that you'll have to discover for yourself.
