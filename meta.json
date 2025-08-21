@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "1.0.4",
+      "releasedAt": 1755718800000,
+      "updateType": "incompatible",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/mod/dimensionaldoors/version/2mbjY4AI",
+        }
+      }
+    }
+  ]
+}
