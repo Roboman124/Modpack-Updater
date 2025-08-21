@@ -1,5 +1,7 @@
 Version 1.0.4 - Update Summary
 ---------------------------------
+- PLACE MOD IN %APPDATA%\ModrinthApp\profiles\Ben Month Server 1.0.0\mods
+- Copy the link for the file path into file explorer or click the 3 dots in modrinth app and click open folder.
 - Added a mysterious new feature that opens up entirely new possibilities...
 - Minor performance tweaks and backend improvements.
 - Various undisclosed changes that you'll have to discover for yourself.
