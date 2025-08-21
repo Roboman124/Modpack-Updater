@@ -4,11 +4,11 @@
   "versions": [
     {
       "id": "1.0.4",
-      "releasedAt": 1755718800000,
+      "releasedAt": 1755752221000,
       "updateType": "incompatible",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/mod/dimensionaldoors/version/2mbjY4AI",
+          "modrinth": "https://modrinth.com/mod/dimensionaldoors/version/2mbjY4AI"
         }
       }
     }
